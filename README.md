@@ -99,7 +99,7 @@ Heute haben wir mit unserem Scratch Projekt angefangen. Unsere Idee war es, ein 
 <details>
 <summary> Bild zum 12.10 </summary>
 
-![Bild](s1.PNG "Bild")
+![Bild](s1.htm "Bild")
 
  </details>
 
